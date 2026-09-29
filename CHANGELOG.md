@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.9](https://github.com/GetStream/stream-node/compare/v0.8.8...v0.8.9) (2026-09-29)
+
+
+### Features
+
+* regenerate with the flat sendRequest response and no default JSON content type ([#357](https://github.com/GetStream/stream-node/issues/357)) ([9d50ab4](https://github.com/GetStream/stream-node/commit/9d50ab4f4f6a3038649cb1bd4e599af37dd06ae5))
+
 ## [0.8.8](https://github.com/GetStream/stream-node/compare/v0.8.7...v0.8.8) (2026-09-24)
 
 
